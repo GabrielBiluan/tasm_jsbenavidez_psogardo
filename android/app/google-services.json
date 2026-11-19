@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867355116332",
+    "project_id": "tasm-jsbenavidez-psogardo",
+    "storage_bucket": "tasm-jsbenavidez-psogardo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867355116332:android:f132ff7898d3bfca65a289",
+        "android_client_info": {
+          "package_name": "com.example.tasm_jsbenavidez_psogardo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfVy2HJhUQ1RIhlhmxWG0lkJH-zBtj2_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
